@@ -2,7 +2,7 @@
 
 ---
 
-endereço: xxxxx - Marília - SP 
-numero:(14) xxxxx-xxxx
-e-mail: xxxxxxxxxx@gmail.com
-nacionalidade: Brasileiro
+Endereço: Padre Nóbrega - Marília - SP 
+Contato:(14) xxxxx-xxxx
+E-mail: xxxxxxxxxx@gmail.com
+Nacionalidade: Brasileiro
