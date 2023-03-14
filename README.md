@@ -18,6 +18,8 @@
 
 Experiencia:
 ---
+ConnectParts Auto Peças
+---
+Formação
 
-ConnectParts auto peças
 
