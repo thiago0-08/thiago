@@ -3,17 +3,17 @@
 ---
 
 
--Endereço: Padre Nóbrega - Marília - SP
+Endereço: Padre Nóbrega - Marília - SP
 
--Contato:(14) xxxxx-xxxx
+Contato:(14) xxxxx-xxxx
 
--E-mail: xxxxxxxxxx@gmail.com
+E-mail: xxxxxxxxxx@gmail.com
 
--Nacionalidade: Brasileiro
+Nacionalidade: Brasileiro
 
--CPF: xxx.xxx.xxx.xx
+CPF: xxx.xxx.xxx.xx
 
--RG:xx.xxx.xxx.xx
+RG:xx.xxx.xxx.xx
 
 
 Experiencia:
@@ -21,5 +21,5 @@ Experiencia:
 ConnectParts Auto Peças
 ---
 Formação
-
+ Unimar
 
