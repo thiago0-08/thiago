@@ -17,7 +17,6 @@ RG:xx.xxx.xxx.xx
 
 
 Experiencia:
-
 ---
 
 ConnectParts Auto Peças
